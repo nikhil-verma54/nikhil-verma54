@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Nikhil Verma
 - 👀 I’m interested in Software engineering 
 - 🌱 I’m currently learning Web development and DSA
-- 📫 To reach me nikkcr3141@gmail.com
-- 😄 Pronouns: Nikk
+- 📫 To reach me - nikkcr3141@gmail.com
+- 📍 Bhopal (M.P.)
+
 
 
 <!---
